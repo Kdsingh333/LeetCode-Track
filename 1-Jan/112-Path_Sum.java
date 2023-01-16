@@ -13,6 +13,7 @@
  *     }
  * }
  */
+//Easy
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
        if(root == null){
