@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+ // Easy
 class Solution {
     public int maxDepth(TreeNode root) {
         return Depth(root);
